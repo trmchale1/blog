@@ -1,0 +1,22 @@
+{
+  "name": "expressApp",
+  "version": "0.0.0",
+  "description": "no",
+  "main": "server.js",
+  "scripts": {
+    "test": "no",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "tim mchale",
+  "license": "no",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
